@@ -17,7 +17,7 @@ run this command to install dotENV and firebase JWT package:
 composer install
 ```
 __check `composer.json` for more details.__
-<h6 style="text-align:center">a more details documentation will be added one the API deployed</h6>
+<h6 style="text-align:center">a more detailed documentation will be added once the API is deployed</h6>
 
 
 
