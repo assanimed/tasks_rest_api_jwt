@@ -11,7 +11,7 @@ API FOR MANAGING TASK, Implementing [JWT](https://jwt.io/) for Authentication.
 ![JWT structures](https://miro.medium.com/max/1400/1*opylT3le-JKZ-paWKYRcYQ.png)
 
 
-I warite dotenv parser and JWT package manulaly, you can replace them by an existing Libraries for more reliable solution.
+I write dotenv parser and JWT package manually, you can replace them by an existing Libraries for more reliable solution.
 run this command to install dotENV and firebase JWT package:
 ```bash
 composer install

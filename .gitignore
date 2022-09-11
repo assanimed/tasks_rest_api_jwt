@@ -1,3 +1,2 @@
 .vscode/
-cender/
-.env
+vendor/
