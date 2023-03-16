@@ -16,6 +16,28 @@ run this command to install dotENV and firebase JWT package:
 ```bash
 composer install
 ```
+
+## Code Simples
+
+`.env Parsing`
+
+![.env Parsing](./_ReadME_IMGS/ENV.png)
+
+`JWT ENCODE`
+
+![.env Parsing](./_ReadME_IMGS/jwt_encode.png)
+
+`JWT DECODE`
+
+![.env Parsing](./_ReadME_IMGS/jwt_decode.png)
+
+`VERIFY  REFRESH TOKEN`
+
+![.env Parsing](./_ReadME_IMGS/verify_refresh_token.png)
+
+
+
+
 __check `composer.json` for more details.__
 <h6 style="text-align:center">a more detailed documentation will be added once the API is deployed</h6>
 

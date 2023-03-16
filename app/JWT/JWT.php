@@ -26,8 +26,6 @@
                                     true);
             $signature = $this -> base64urlEncode($signature);
 
-            
-
             return $header . "." . $payload . "." . $signature;
         }
 
